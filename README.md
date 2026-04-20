@@ -17,7 +17,7 @@ Ein schlichter Browser-Trainer zum Üben des Nummernblocks auf der Tastatur. Zuf
 **Lokal:** `index.html` doppelklicken — öffnet im Standard-Browser.
 
 **Online:** Sobald GitHub Pages für dieses Repo aktiviert ist, läuft der Trainer unter
-`https://<dein-github-name>.github.io/<repo-name>/`
+`https://JaromirKonecny.github.io/numpad-ziffern-trainer/`
 
 ## Technisches
 
